@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌱 I’m currently learning Network Security
+🌱 I’m currently learning Diploma In Network Security
 
 🔭 I’m currently working on InjeXcanner
 
