@@ -10,7 +10,7 @@
 <img src="https://raw.githubusercontent.com/L-Azymm/L-Azymm/output/snake.svg" alt="Snake animation" />
 
 ###
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Need Coffee</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
