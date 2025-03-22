@@ -7,7 +7,9 @@
 
 📫 How to reach me: luq.zym@gmail.com
 
+<img src="https://raw.githubusercontent.com/L-Azymm/L-Azymm/output/snake.svg" alt="Snake animation" />
 
+###
 
 <!--
 **L-Azymm/L-Azymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
