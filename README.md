@@ -1,12 +1,14 @@
 # Welcome to My GitHub Profile 👋
 
-Hi there! I'm a passionate student of **Network Security** with a keen interest in exploring different aspects of cybersecurity, network management, and software development. I am currently working on projects that involve vulnerability detection
+![Banner](https://github.com/your-github-username/your-repository-name/raw/main/banner.png)
+
+Hi there! I'm a passionate student of **Network Security** with a keen interest in exploring different aspects of cybersecurity, network management, and software development. I am currently working on projects that involve vulnerability detection.
 
 ## About Me 👨‍💻
 
-- 🌱 I’m currently learning and exploring **Network Security**
+- 🌱 I’m currently learning and exploring **Network Security**.
 - 🔭 I’m working on a **Vulnerability Detection System** for my **Final Year Project (FYP)**.
-- 🌍 I am  currently pursuing my **Diploma in Network Security**.
+- 🌍 I am currently pursuing my **Diploma in Network Security**.
 
 ## 📚 Projects
 
@@ -14,7 +16,6 @@ Here are some of the key projects I am working on:
 
 ### **InjecXcanner**
    A **Vulnerability Detection Program (VDP)** focused on **SQL injection** vulnerability detection. It's designed to help developers spot vulnerabilities in their applications.
-
 
 ## 🔧 Tools & Technologies
 
@@ -35,18 +36,18 @@ I work with various tools and technologies, including:
 
 ![Snake Animation](https://github.com/your-github-username/your-github-username/blob/output/github-contribution-grid-snake.svg)
 
-## 📸 My Banner
+## 📝 Resources
 
-![Banner](https://github.com/your-github-username/your-repository-name/raw/main/banner.png)
+Here are some useful resources I’ve worked with and recommend:
 
-## 📝Resources
-
+- [Resource 1](#)  
+- [Resource 2](#)
 
 ## 📫 How to Reach Me
 
 Feel free to reach out for collaborations, discussions, or any project inquiries:
 
-- Email: [your-email@example.com](mailto:your-email@example.com)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+- Email: [your-email@example.com](luq.zym@gmail.com)
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/aziem-anor-0b0993323)
 
 Thanks for visiting! 👨‍💻
