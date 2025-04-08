@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile 👋
 
-![Banner](https://github.com/your-github-username/your-repository-name/raw/main/banner.png)
+![Banner]([https://github.com/your-github-username/your-repository-name/raw/main/banner.png](https://github.com/L-Azymm/L-Azymm/blob/Assets/banner.png?raw=true))
 
 Hi there! I'm a passionate student of **Network Security** with a keen interest in exploring different aspects of cybersecurity, network management, and software development. I am currently working on projects that involve vulnerability detection.
 
