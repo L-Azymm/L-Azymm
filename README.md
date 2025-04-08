@@ -19,7 +19,7 @@ I'm definitely not a cat person.
 ### 📫 How to reach me
 
 <div display="flex">
-  <a href="https://www.linkedin.com/in/https://aziem-anor-0b0993323//">
+  <a href="[https://www.linkedin.com/in/https://aziem-anor-0b0993323//](https://www.linkedin.com/in/aziem-anor-0b0993323/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKrd3%2BaEOTo%2BD0lNLkv5p0A%3D%3D)">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
