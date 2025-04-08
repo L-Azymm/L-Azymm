@@ -1,3 +1,5 @@
+
+
 ## Hi there 👋
 🌱 I’m currently learning Diploma In Network Security
 
@@ -7,7 +9,7 @@
 
 📫 How to reach me: luq.zym@gmail.com
 
-<img src="https://raw.githubusercontent.com/L-Azymm/L-Azymm/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/L-Azymm/L-Azymm/blob/output/github-contribution-grid-snake.svg)
 
 ###
 <h3 align="center">Need Coffee</h3>
