@@ -1,54 +1,54 @@
+# Welcome to My GitHub Profile 👋
 
-## Hi there 👋
+Hi there! I'm a passionate student of **Network Security** with a keen interest in exploring different aspects of cybersecurity, network management, and software development. I am currently working on several projects that involve vulnerability detection, brute-force attacks, intrusion detection systems, and much more.
 
-### 🤔 I’m looking for help with
+## About Me 👨‍💻
 
-- Doing my FYP
+- 🌱 I’m currently learning and exploring **network security**, **ethical hacking**, and **vulnerability detection**.
+- 🔭 I’m working on a **Vulnerability Detection System** for my **Final Year Project (FYP)**.
+- ⚡ Fun fact: I love combining **technology** with **art**, which is part of my unique business concept, **Byte & Bite**, blending tech services and food.
+- 🌍 I am based in **Malaysia** and currently pursuing my **Diploma in Network Security**.
+- 🎂 My birthday is on **April 19th**!
 
+## 📚 Projects
 
+Here are some of the key projects I am working on:
 
-I'm definitely not a cat person.
-## Hi there 👋
-🌱 I’m currently learning Diploma In Network Security
+### 1. **InjecXcanner**
+   A **Vulnerability Detection Program (VDP)** focused on **SQL injection** vulnerability detection. It's designed to help developers spot vulnerabilities in their applications.
 
-🔭 I’m currently working on InjeXcanner
+### 2. **Brute-Force & Sniffing Lab**
+   A lab project simulating **brute-force attacks** on common protocols (FTP, SSH, TELNET) and analyzing **network traffic** using tools like **Wireshark** and **Hydra**. 
 
-🤔 I’m looking for help with ^^^
+### 3. **CIT 0592: Intrusion Detection/Prevention System Mini Project**
+   A hands-on project where I simulate an attack and use **IDS/IPS** and other security tools to detect and prevent it.
 
-📫 How to reach me: luq.zym@gmail.com
-### 📫 How to reach me
+## 🔧 Tools & Technologies
 
-<div display="flex">
-  <a href="[https://www.linkedin.com/in/https://aziem-anor-0b0993323//](https://www.linkedin.com/in/aziem-anor-0b0993323/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BKrd3%2BaEOTo%2BD0lNLkv5p0A%3D%3D)">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
+I work with various tools and technologies, including:
 
+- **XAMPP** for database management
+- **Wireshark** and **Nessus** for network traffic analysis and vulnerability scanning
+- **Burp Suite**, **Hydra**, and **Metasploit** for penetration testing
+- **GitHub** for version control and project collaboration
+- **Linux** and **Rocky Linux** for system and network security tasks
 
-![Snake animation](https://github.com/L-Azymm/L-Azymm/blob/output/github-contribution-grid-snake.svg)
+## 📈 GitHub Stats
 
-###
-<h3 align="center">Need Coffee</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aziem anor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziem anor" height="30" width="40" /></a>
-</p>
+## 📝 Blogs & Resources
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+I occasionally write blogs on my experiences and findings related to cybersecurity, ethical hacking, and network security. Check them out:
 
-<!--
-**L-Azymm/L-Azymm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [Blog 1 Title](#)
+- [Blog 2 Title](#)
 
-Here are some ideas to get you started:
+## 📫 How to Reach Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Network Security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out for collaborations, discussions, or any project inquiries:
+
+- Email: [your-email@example.com](mailto:your-email@example.com)
+- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)
+
+Thanks for visiting! 👨‍💻
