@@ -37,11 +37,12 @@ I work with various tools and technologies, including:
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZymmTech&show_icons=true&theme=gruvbox)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZymmTech&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZymmTech&layout=compact&theme=gruvbox)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZymmTech&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ZymmTech&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=ZymmTech&theme=tokyonight)
+
 
 ## 📝 Resources
 
