@@ -34,10 +34,14 @@ I work with various tools and technologies, including:
 - **GitHub** for version control and project collaboration
 - **Linux** and **Rocky Linux** for system and network security tasks
 
-## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+## 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZymmTech&show_icons=true&theme=gruvbox)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZymmTech&layout=compact&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ZymmTech&theme=gruvbox)
 
 ## 📝 Resources
 
