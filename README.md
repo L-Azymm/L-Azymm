@@ -43,14 +43,14 @@ I work with various tools and technologies, including:
 
 Here are some useful resources I’ve worked with and recommend:
 
-- [Resource 1](#)  
+- [Easy write and preview](https://readme.so/editor)  
 - [Resource 2](#)
 
 ## 📫 How to Reach Me
 
 Feel free to reach out for collaborations, discussions, or any project inquiries:
 
-- Email: [your-email@example.com](luq.zym@gmail.com)
-- LinkedIn: [your-linkedin-profile](https://linkedin.com/in/aziem-anor-0b0993323)
+- Email: [Luq.zym@gmail.com](luq.zym@gmail.com)
+- LinkedIn: [Aziem Anor](https://linkedin.com/in/aziem-anor-0b0993323)
 
 Thanks for visiting! 👨‍💻
