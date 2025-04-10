@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile 👋
+# Welcome Willkómmen ようこそ 👋
 
 ![Banner](https://github.com/L-Azymm/L-Azymm/blob/Assets/banner.png?raw=true)
 
