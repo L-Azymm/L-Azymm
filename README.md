@@ -19,29 +19,32 @@ Hi there! I'm a student of **Network Security** at German-Malaysian Isntitute wi
 ## 🛠️ Technical Skills
 
 I work with various tools and technologies, including:
-- **Tools:**
-  -  Cisco Packet Tracer
-  -  VMware
-  -  Visual Studio code
-  -  XAMPP
-  -  Putty
-  -  Pycharm
-  -  Apache Netbean
-- **Operating Systems:**
-  - Windows
-  -  Ubuntu
-  -  Kali
-  -  OpenSUSE
-  -  Rocky Linux  
-- **Programming:**
-  - Python
-  - Java
-  - HTML
-  - PHP
-  - SQL  
-- **Hardware:**
-  - Routers
-  - Switches
+
+- 🧰 Tools:
+  - 🧪 Cisco Packet Tracer
+  - 💻 VMware
+  - 📝 Visual Studio Code
+  - 🌐 XAMPP
+  - 🔐 PuTTY
+  - 🐍 PyCharm
+  - ☕ Apache NetBeans
+
+- 🖥️ Operating Systems:
+  - 🪟 Windows
+  - 🐧 Ubuntu
+  - 🕵️ Kali Linux
+  - 🦎 OpenSUSE
+  - 🪨 Rocky Linux
+  - 👨‍💻 Programming:
+  - 🐍 Python
+  - ☕ Java
+  - 🌐 HTML
+  - 🐘 PHP
+  - 🗄️ SQL
+
+🧱 Hardware:
+  - 📡 Routers
+  - 🔌 Switches
   
 
 ## 🚀 Projects
