@@ -35,7 +35,8 @@ I work with various tools and technologies, including:
   - 🕵️ Kali Linux
   - 🦎 OpenSUSE
   - 🪨 Rocky Linux
-  - 👨‍💻 Programming:
+    
+- 👨‍💻 Programming:
   - 🐍 Python
   - ☕ Java
   - 🌐 HTML
