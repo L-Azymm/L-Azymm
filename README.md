@@ -24,8 +24,6 @@ I work with various tools and technologies, including:
   -  VMware
   -  Visual Studio code
   -  XAMPP
-  -  Wireshark
-  -  GitHub
   -  Putty
   -  Pycharm
   -  Apache Netbean
