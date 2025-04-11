@@ -65,11 +65,11 @@ A responsive website for GMI students and staff.
   
 ## 📚 Education
 
-**Diploma in Network Security**  
-German-Malaysian Institute 
+- **Diploma in Network Security**  
+  - German-Malaysian Institute 
 
-**Sijil Pelajaran Malaysia (SPM)**  
-SMS Sultan Mohammad Jiwa
+- **Sijil Pelajaran Malaysia (SPM)**  
+  - SMS Sultan Mohammad Jiwa
 
 ## 📊 GitHub Stats
 
@@ -82,9 +82,9 @@ SMS Sultan Mohammad Jiwa
 ## 📌 Activities & Events
 
 - Member of **Cyber Security Club**, GMI  
-- Participated in **GMI Break The Enigma CTF 2025**  
 - Attended **CyberDSA 2024**  
-- Completed **Cyber Defense Foundation Course** (CyberHeals)  
+- Completed **Cyber Defense Foundation Course** (CyberHeals)
+- Participated in **GMI Break The Enigma CTF 2025**    
 - Bootcamps:  
   - *Zero to Hero Web Development – GitHub Ultra*  
   - *Frontend Design Workshop*  
@@ -100,7 +100,7 @@ SMS Sultan Mohammad Jiwa
 
 ## 📝 Resources
 
-Here are some useful resources I’ve worked with and recommend:
+Here are some useful resources I’ve used and recommend:
 
 - [Easy write and preview📝](https://readme.so/) 
 - [Pick up your stats📊](https://streak-stats.demolab.com/demo/)
@@ -108,7 +108,7 @@ Here are some useful resources I’ve worked with and recommend:
 ## 📫 How to Reach Me
 
 Feel free to reach out for collaborations, discussions, or any project inquiries:
-
+I.m even loking for Internships
 - Email: [Luq.zym@gmail.com](luq.zym@gmail.com)
 - LinkedIn: [Aziem Anor](https://linkedin.com/in/aziem-anor-0b0993323)
 
