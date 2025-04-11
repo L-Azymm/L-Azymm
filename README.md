@@ -45,7 +45,7 @@ I work with various tools and technologies, including:
 
 Here are some useful resources I’ve worked with and recommend:
 
-- [Easy write and preview](https://readme.so/editor)  
+- [Easy write and preview](https://readme.so/)  
 - [Pick up your stats](https://streak-stats.demolab.com/demo/)
 
 ## 📫 How to Reach Me
