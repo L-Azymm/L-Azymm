@@ -43,7 +43,7 @@ I work with various tools and technologies, including:
   - 🐘 PHP
   - 🗄️ SQL
 
-🧱 Hardware:
+- 🧱 Hardware:
   - 📡 Routers
   - 🔌 Switches
   
