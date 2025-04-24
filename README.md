@@ -94,9 +94,11 @@ A responsive website for GMI students and staff.
 ---
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=L-Azymm&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=L-Azymm&layout=donut-vertical&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=L-Azymm&theme=tokyonight&border_radius=5)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L-Azymm&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Azymm&layout=donut-vertical&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com?user=L-Azymm&theme=tokyonight&border_radius=5"/>
+</p>
 
 ## 📝 Resources
 
