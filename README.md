@@ -109,12 +109,6 @@ A responsive website for GMI students and staff.
   </table>
 </p>
 
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L-Azymm&layout=donut-vertical&theme=tokyonight"
-       style="width:280px;margin-left:12px"/>
-
-</p>
-
 ## 📝 Resources
 
 Here are some useful resources I’ve used and recommend:
