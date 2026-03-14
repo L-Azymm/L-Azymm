@@ -10,10 +10,10 @@
 
 ## About Me 👨‍💻
 
-Hi there! I'm a student of **Network Security** at German-Malaysian Isntitute with a keen interest in exploring different aspects of Cybersecurity.I would love to learn more and apply my knowledge in real situations. I am currently working on projects that involve vulnerability detection.
+Hi there! I'm graduate student of **Network Security** at German-Malaysian Isntitute with a keen interest in exploring different aspects of Cybersecurity.I would love to learn more and apply my knowledge in real situations. I am currently working on projects that involve vulnerability detection.
 
 - 🌱 I’m currently learning and exploring **Network Security**.
-- 🔭 I’m working on a **Vulnerability Detection System** for my **Final Year Project (FYP)**.
+- 🔭 I’m worked on a **Vulnerability Detection System** for my **Final Year Project (FYP)**.
 - 🌍 I am currently pursuing my **Diploma in Network Security**.
 
 ## 🛠️ Technical Skills
