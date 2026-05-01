@@ -74,9 +74,11 @@ A responsive website for GMI students and staff.
 
 ## 📑 Certifications
 
+- CompTIA CySA+
 - CCNAv7: Introduction to Networks  
 - CCNAv7: Switching, Routing, and Wireless Essentials  
 - CCNAv7: Enterprise Networking, Security, and Automation
+- Fortinet NSE 1
 
 ## 📌 Activities & Events
 
